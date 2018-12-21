@@ -4,7 +4,7 @@ An example of how an HTML package can interact with the iDetailAid Viewer
 
 This package shows you how to create various interactions between an HTML5 package and the iDetailAid slide Viewer.
 
-For more information and documentation : (https://docs.idetailaid.co.uk/dev-docs/intro/)
+For more information and documentation : https://docs.idetailaid.co.uk/dev-docs/intro/
 
 ## Features
 
